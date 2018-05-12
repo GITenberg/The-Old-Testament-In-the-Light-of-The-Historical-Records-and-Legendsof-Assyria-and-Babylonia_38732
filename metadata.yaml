@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '811'
     url: http://www.gutenberg.org/2009/agents/811
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38732#The-Old-Testament-In-the-Light-of-The-Historical-Records-and-Legendsof-Assyria-and-Babylonia
 gutenberg_issued: '2012-01-31'
 gutenberg_type: Text
 identifiers:
